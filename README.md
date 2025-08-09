@@ -17,7 +17,7 @@ This document describes the standard layout for this C project and the purpose o
 
 ## 📂 Project Layout
 ```
-📦 C-Project/
+📦 source/
 ├── 📂 bin/                  # Final compiled binaries
 │   ├── run                  # Executable output
 │   └── .gitkeep              # Keeps folder in Git when empty
